@@ -104,13 +104,34 @@ The application:
 8. Displays probabilities for all ten digits.
 
 ---
+## Results
+
+The CNN achieved **99.20% test accuracy** on 10,000 unseen MNIST test images.
+
+The project also includes an interactive Streamlit application where users can upload a handwritten digit image and receive:
+
+- Predicted digit
+- Prediction confidence
+- Probability distribution across all 10 classes
+
+----
+
+## Demo
+
+The Streamlit application provides an interactive interface for handwritten digit prediction.
+
+Users can upload a digit image and view the model's prediction and confidence score.
+
+-----
 
 ## Project Structure
 
 ```text
 Handwritten-Digit-Recognition/
 │
+├── Handwritten_Digit_Recognition_CNN.ipynb
 ├── handwritten_digit_cnn.keras
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
