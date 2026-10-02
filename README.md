@@ -116,11 +116,11 @@ The project also includes an interactive Streamlit application where users can u
 
 ----
 
-## Demo
+## 🚀 Live Demo
 
-The Streamlit application provides an interactive interface for handwritten digit prediction.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashna048-handwritten-digit-recognition-cnn-app-rklhxy.streamlit.app/)
 
-Users can upload a digit image and view the model's prediction and confidence score.
+👉 **[Open the Live Application](https://ashna048-handwritten-digit-recognition-cnn-app-rklhxy.streamlit.app/)**
 
 -----
 
